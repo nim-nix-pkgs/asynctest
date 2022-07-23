@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-asynctest-main": "src-asynctest-main"
+        "src-asynctest-0_3_2": "src-asynctest-0_3_2"
       }
     },
-    "src-asynctest-main": {
+    "src-asynctest-0_3_2": {
       "flake": false,
       "locked": {
         "lastModified": 1658394047,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "markspanbroek",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.3.2",
         "repo": "asynctest",
         "type": "github"
       }
